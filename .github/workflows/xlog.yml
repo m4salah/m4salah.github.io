@@ -47,8 +47,8 @@ jobs:
           --activitypub.domain=www.msalah.net \
           --activitypub.username=Mohamed \
           --activitypub.summary="A Software Engineer. My opinions are my own" \
-          --activitypub.icon="/public/logo.png" \
-          --activitypub.image="/public/logo.png" \
+          --activitypub.icon="/public/glider.png" \
+          --activitypub.image="/public/glider.png" \
           --og.domain=www.msalah.net \
           --twitter.username=@msalah1337 \
           --github.repo=https://github.com/m4salah/m4salah.github.io \
