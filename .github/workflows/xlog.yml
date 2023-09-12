@@ -2,7 +2,7 @@ name: Xlog
 
 on:
   push:
-    branches: [ "master" ]
+    branches: ["master"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -36,7 +36,7 @@ jobs:
 
       - name: Install xlog
         run: |
-          go install github.com/emad-elsaid/xlog/cmd/xlog@latest
+          go install github.com/m4salah/dlog/cmd/xlog@latest
 
       - name: Build
         run: |
