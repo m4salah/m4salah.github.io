@@ -34,7 +34,7 @@ jobs:
           go-version: 1.19
           check-latest: true
 
-      - name: Install xlog
+      - name: Install dlog
         run: |
           go install github.com/m4salah/dlog/cmd/dlog@latest
 
