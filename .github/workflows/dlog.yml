@@ -43,6 +43,7 @@ jobs:
           dlog \
           --build . \
           --sitename "Mohamed A. Salah" \
+          --index=Home \
           --sitemap.domain=www.msalah.net \
           --activitypub.domain=www.msalah.net \
           --activitypub.username=Mohamed \
