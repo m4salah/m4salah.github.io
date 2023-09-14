@@ -1,4 +1,4 @@
-https://conwaylife.com/w/images/b/b6/Gosperglidergun.gif
+![](/public/1bc2556aa3725ac148291f81f1a42d7768f25d662cb6935f45c7428306759d3c.jpg)
 #home
 
 Hello internet, I'm **Mohamed Abdelkhalek Salah** (Arabic: **محمد عبدالخالق صلاح**). This is my :house_with_garden: [digital garden](https://github.com/MaggieAppleton/digital-gardeners). It’s a public space.
