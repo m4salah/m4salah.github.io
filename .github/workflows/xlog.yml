@@ -36,11 +36,11 @@ jobs:
 
       - name: Install xlog
         run: |
-          go install github.com/m4salah/dlog/cmd/xlog@latest
+          go install github.com/m4salah/dlog/cmd/dlog@latest
 
       - name: Build
         run: |
-          xlog \
+          dlog \
           --build . \
           --sitename "Mohamed A. Salah" \
           --sitemap.domain=www.msalah.net \
