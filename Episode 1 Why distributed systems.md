@@ -1,7 +1,8 @@
 ![](/public/47b6b9ef441398e9f9e31783026fb95783abefe2c063d71d03faf90341f96069.webp)
 
 #distributedsystems
-# Why distribute systems?
+
+# [Why distribute systems?](https://www.youtube.com/watch?v=s_p3I5CMGJw)
 ## The Wrong reasons:
 
 - It's fun
