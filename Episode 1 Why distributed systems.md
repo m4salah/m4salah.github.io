@@ -16,9 +16,9 @@
 - Availability, fault tolerance (under failure), Durability.
 - Data residency under compliance with country law (for example the country requires the data of some sort to be physically in the country).
 
----
+
 # Node: 
-the node contains the compute (CPU) and state (memory, disk).
+The node that contains the compute (CPU) and state (memory, disk), it's either a standalone machine or a running process (a member of the the distributed systems).
 # Compute:
 The computing power that does the actual work is The ***CPU***.
 # State:
@@ -43,6 +43,6 @@ Which machine holds the state of its own. for example
 ![](/public/0c8904c8b92b1513ad4002c4aa8847b34ca6bc35c931e2bcde13cf4d956b94f4.png)
 With this mechanism, we trade off the availability because if one machine is down we do not have the whole state. to mitigate this problem how likely is the company can pay for higher availability? like replicating the machine into whatever we want.
 
----
+
 # Fault tolerance
 
