@@ -69,12 +69,13 @@ Of course not and depending on the use case, the key here is what to trade for *
 Suppose we have two armies (army 1 and army 2) that need to invade the country but they must attack together at the same time to invade the country.
 they must be communicating to agree on the time to invade, we suppose the messenger is authentic and the message will be received is **authentic and true**.
 If we send the messenger from Army 1 with a certain time to invade and Army 2 receives the message and agrees on the time he sends another messenger to confirm the invasion time.
-The problem here is from Army 1 point he sends the messenger and assumes the Army 2 received it and will attack on time or he waits for the response from Army 2 to confirm but from Army 2 point he confirms the time and sends the messenger but he didn't know if army 1 received the confirmation or not, Do we make army 1 send another messenger to confirm the confirmation, we are stuck in a loop, it requires send and received an infinite number of messages to confirm the time, This type problem called ***Consensus (common knowledge)***. to reach the consensus we require an infinite number of messages (assurance problem). ***No Solution for this problem for 100%***.
+The problem here is from Army 1 point he sends the messenger and assumes Army 2 received it and will attack on time or he waits for the response from Army 2 to confirm but from Army 2 point he confirms the time and sends the messenger but he didn't know if army 1 received the confirmation or not, Do we make army 1 send another messenger to confirm the confirmation, we are stuck in a loop, it requires send and received an infinite number of messages to confirm the time, This type problem called ***Consensus (common knowledge)***. to reach the consensus we require an infinite number of messages (assurance problem). ***No Solution for this problem for 100%***.
 ![](/public/41729c8ecc504d2514214c12c3b5425efb43546418ecbe5c9ba7e084910dc3c0.png)
 ## Byzantine Generals problem
 The same as the previous problem but the messages is will be received 100% we assure you that the message will be received but the message maybe it's corrupted or the messenger is disloyal or one of the army is actively sending wrong information (gray failure the army or the node is running but actively send wrong messages or corrupted or compromised or the messenger late).
 
 ## Consensus Problem
-In distributed systems each node has a state, We must agree that all the node has equal state (Consensus) in unreliable communication channels between the nodes.
+In distributed systems each node has a state, All Nodes must agree on ***One*** state (Consensus) in unreliable communication channels between the nodes.
 There are a class of algorithms that specialize in solving consensus problems for example Paxos, and Raft
+
 
