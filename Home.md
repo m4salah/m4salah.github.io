@@ -23,3 +23,4 @@ I'm a **Software Engineer**. Adoptable with any technology for now I'm using [No
 # Distributed Systems Series by Ahmed Soliman
 [The Playlist](https://www.youtube.com/playlist?list=PLald6EODoOJW3alE1oPAkGF0bHZkPIeTK)
 - Episode 1 Why distributed systems
+- Episode 2 State Machine Replication (SMR)
