@@ -1,4 +1,10 @@
-![FROM THE RIVER TO THE SEE PALESTINE WILL BE FREE](/public/maxresdefault.jpg)
+<script src="https://tfpb.techforpalestine.org/lib/banner.min.js"></script>
+  <script>
+    TFPBanner.create({
+      theme: "auto",
+      fixed: false,
+    });
+  </script>
 
 Hello internet, I'm **Mohamed Abdelkhalek Salah** (Arabic: **محمد عبدالخالق صلاح**). This is my :house_with_garden: [digital garden](https://github.com/MaggieAppleton/digital-gardeners). It’s a public space.
 
