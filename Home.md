@@ -1,10 +1,10 @@
-<script src="https://tfpb.techforpalestine.org/lib/banner.min.js"></script>
-  <script>
-    TFPBanner.create({
-      theme: "auto",
-      fixed: false,
-    });
-  </script>
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+
+<p align="center">
+  <a href="https://techforpalestine.org">
+    <img alt="Palestine Banner" src="https://i.imgur.com/4mur9FP.jpg">
+  </a>
+</p>
 
 Hello internet, I'm **Mohamed Abdelkhalek Salah** (Arabic: **محمد عبدالخالق صلاح**). This is my :house_with_garden: [digital garden](https://github.com/MaggieAppleton/digital-gardeners). It’s a public space.
 
